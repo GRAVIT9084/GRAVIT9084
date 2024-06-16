@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GRAVIT9084
+- 👋 Hi, I’m Gravit
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any project which enhance my skills.
